@@ -77,7 +77,7 @@ Ejemplo de estructura para registrar usuario
                ]
 }
 
-En el siguiente archivo /demo/src/main/resources/application.properties se encuentra la propiedad validator.password en donde se indicará la expresión regular para validar el password
+En el siguiente archivo **/demo/src/main/resources/application.properties** se encuentra la propiedad **validator.password** en donde se indicará la expresión regular para validar el password
 
 # Scripts
 
@@ -88,7 +88,7 @@ create table user_sign (is_active boolean not null, created TIMESTAMP default CU
 alter table if exists phone add constraint FKmco8ihetnp22ql9f7pc1rkk2s foreign key (user_id) references user_sign  
 
 # Swagger
-Con la aplicación ejecutandose se puede visualizar en el siguiente link el swagger http://localhost:8080/swagger-ui/index.html
+Con la aplicación ejecutandose se puede visualizar en el siguiente link el swagger **http://localhost:8080/swagger-ui/index.html**
 
 ![image](https://github.com/alerojaslopenza/nisum/assets/39816424/3719d151-8f0d-4511-8a5a-cef352e110bb)
 
