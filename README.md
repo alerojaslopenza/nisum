@@ -92,6 +92,8 @@ Con la aplicación ejecutandose se puede visualizar en el siguiente link el swag
 
 ![image](https://github.com/alerojaslopenza/nisum/assets/39816424/3719d151-8f0d-4511-8a5a-cef352e110bb)
 
+# Diagrama
+![image](https://github.com/alerojaslopenza/nisum/assets/39816424/3ce9211c-70b4-4267-8859-095af2999f79)
 
 
 
