@@ -34,7 +34,7 @@ public class UserControllerTest {
 	 private UserService userService;
 	
 	@Test
-    public void whenGetAllAssets_thenControlFlowCorrect() throws Exception {
+    public void shouldSaveOK() throws Exception {
 		String jsonData = "{\r\n"
 				+ "    \"name\":\"test\",\r\n"
 				+ "    \"password\":\"Baeldung20@\",\r\n"
